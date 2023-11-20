@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://github.com/business-studio/wsf-degrees/blob/beta/gdp-niv1-badge.json",
+    "type": "BadgeClass",
+    "name": "Gestion de Projets - Niveau 1",
+    "description": "Ce badge Gestion de projets - niv 1 vise à certifier les étudiants ayant suivi un cursus de gestion de projets. Il englobe les principes fondamentaux de la planification, de la coordination et du suivi de projets avec des clients réels.",
+    "image": "https://www.webschoolfactory.fr/sites/all/themes/wsf/img/logo.svg",
+    "criteria": "Pour valider le badge Gestion de projets - niv 1, les étudiants doivent suivre et valider le module de gestion de projets ainsi qu'avoir mener activement l'ensemble des projets pédagogiques de l'année avec de vrais clients et leurs problématiques.",
+    "tags": ["gestion de projet"],
+    "alignment": [ ],
+    "issuer": "https://github.com/business-studio/wsf-degrees/blob/beta/issuer-organization.json"
+}

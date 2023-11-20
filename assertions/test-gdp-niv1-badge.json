@@ -1,0 +1,18 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://github.com/business-studio/wsf-degrees/blob/beta/assertions/test-gdp-niv1-badge.json",
+    "recipient":
+    {
+        "type": "email",
+        "hashed": true,
+        "identity": "9b95833111f3dd51cde05a001196f08332a8bb5d22281c6b71c163628acddc29"
+    },
+    "badge": "https://github.com/business-studio/wsf-degrees/blob/beta/gdp-niv1-badge.json",
+    "verification":
+    {
+        "type": "hosted"
+    },
+    "issuedOn": "2023-06-17T23:59:59Z",
+    "expires": "2030-06-30T23:59:59Z"
+}
