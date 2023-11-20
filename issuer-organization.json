@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/business-studio/wsf-degrees/blob/beta/issuer-organization.json",
+    "id": "https://github.com/business-studio/wsf-degrees/blob/main/issuer-organization.json",
     "type": "Issuer",
     "name": "Web School Factory",
     "url": "https://www.webschoolfactory.fr"

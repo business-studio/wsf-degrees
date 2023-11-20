@@ -1,5 +1,5 @@
 <svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:openbadges="http://openbadges.org">
-<openbadges:assertion verify="https://github.com/business-studio/wsf-degrees/blob/beta/assertions/test-gdp-niv1-badge.json"></openbadges:assertion>
+<openbadges:assertion verify="https://github.com/business-studio/wsf-degrees/blob/main/assertions/test-gdp-niv1-badge.json"></openbadges:assertion>
 <g clip-path="url(#clip0_12_17173)">
 <rect width="1920" height="1080" fill="#0055A4"/>
 <g filter="url(#filter0_d_12_17173)">
