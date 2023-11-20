@@ -6,7 +6,7 @@
     {
         "type": "email",
         "hashed": true,
-        "identity": "9b95833111f3dd51cde05a001196f08332a8bb5d22281c6b71c163628acddc29"
+        "identity": "sha256$9b95833111f3dd51cde05a001196f08332a8bb5d22281c6b71c163628acddc29"
     },
     "badge": "https://raw.githubusercontent.com/business-studio/wsf-degrees/main/gdp-niv1-badge.json",
     "verification":
